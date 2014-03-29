@@ -3,7 +3,7 @@
         xmlns:android="http://schemas.android.com/apk/res/android">
     <name>PDFViewer</name>
     <description>Xtensive Technologies PDF viewer</description>
-    <licence>Apache 2.0</licence>
+    <license>Apache 2.0</license>
     <keywords>xtensive,pdf,viewer</keywords>
 
 
